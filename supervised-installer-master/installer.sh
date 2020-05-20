@@ -9,11 +9,11 @@ DOCKER_BINARY=/usr/bin/docker
 DOCKER_REPO=homeassistant
 DOCKER_SERVICE=docker.service
 URL_VERSION="https://raw.githubusercontent.com/LucaEstiva/home_assistant_installer/master/version.home-assistant.io/stable.json?token=AA4EAZCYP2WKDRYOYOWKI226YUV56"
-URL_HA="https://raw.githubusercontent.com/LucaEstiva/supervised-installer/master/files/ha"
-URL_BIN_HASSIO="https://raw.githubusercontent.com/home-assistant/supervised-installer/master/files/hassio-supervisor"
-URL_BIN_APPARMOR="https://raw.githubusercontent.com/home-assistant/supervised-installer/master/files/hassio-apparmor"
-URL_SERVICE_HASSIO="https://raw.githubusercontent.com/home-assistant/supervised-installer/master/files/hassio-supervisor.service"
-URL_SERVICE_APPARMOR="https://raw.githubusercontent.com/home-assistant/supervised-installer/master/files/hassio-apparmor.service"
+URL_HA="https://raw.githubusercontent.com/LucaEstiva/home_assistant_installer/master/supervised-installer-master/files/ha?token=AA4EAZD55P5LY57THKSWHV26YUWSK"
+URL_BIN_HASSIO="https://raw.githubusercontent.com/LucaEstiva/home_assistant_installer/master/supervised-installer-master/files/hassio-supervisor?token=AA4EAZAERNTS2OOBBZEJQBC6YUWUA"
+URL_BIN_APPARMOR="https://raw.githubusercontent.com/LucaEstiva/home_assistant_installer/master/supervised-installer-master/files/hassio-apparmor?token=AA4EAZDZSYYVSNZMR522QHC6YUWWG"
+URL_SERVICE_HASSIO="https://raw.githubusercontent.com/LucaEstiva/home_assistant_installer/master/supervised-installer-master/files/hassio-supervisor.service?token=AA4EAZATQ6BAJ6WYB6PCFOC6YUWYC"
+URL_SERVICE_APPARMOR="https://raw.githubusercontent.com/LucaEstiva/home_assistant_installer/master/supervised-installer-master/files/hassio-apparmor.service?token=AA4EAZCCIOQMXAFOEBTBNH26YUW2A"
 URL_APPARMOR_PROFILE="https://version.home-assistant.io/apparmor.txt"
 
 # Check env
